@@ -12,7 +12,7 @@ base_dir = "C:\\Users\\SAMSUNG\\Downloads\\yongan\\yongan\\yongan"
 
 # 각 하위폴더 이름
 names = ["yongan_YYS", "yongan_JHS", "yongan_CYW", "yongan_KMJ", "yongan_PJS"]
-display_names = ["Yoon_Yong_Sun", "Jung_Hee_Sang", "Choi_Ye_Won", "Kang_Min_Ju", "Park_Jun_Soo"]
+display_names = ["Yoon_Yong_Sun", "Jung_Hee_Sang", "Chae_Ye_Won", "Kang_Min_Ju", "Park_Jun_Soo"]
 
 
 for i, name in enumerate(names):
